@@ -18,8 +18,8 @@ const SIDE: &str = "Buy";
 const SELL_SIDE: &str = "Sell";
 const ORDER_TYPE: &str = "Limit";
 const SELL_ORDER_TYPE: &str = "Market";
-const API_KEY: &str = "v2PZArtTpJXiywHWOB";
-const API_SECRET: &str = "c9ZZMORNREsJs1xPeusOVbtCodHwmfsZeRik";
+const API_KEY: &str = "APIKEY";
+const API_SECRET: &str = "SQKEY";
 const PATH: &str = "/v5/order/create";
 const TIME_IN_FORCE: &str = "IOC";
 
